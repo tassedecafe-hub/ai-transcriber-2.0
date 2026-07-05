@@ -38,7 +38,7 @@
 
 1. **Клонируйте репозиторий**
    ```bash
-   git clone https://github.com/ВАШ_ЛОГИН/ai-transcriber-2.0.git
+   git clone https://github.com/tassedecafe-hub/ai-transcriber-2.0.git
    cd ai-transcriber-2.0
 Установите зависимости
 
